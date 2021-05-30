@@ -33,4 +33,4 @@ else
 fi
 
 # Configurind gcloud sdk
-gcloud init
+# gcloud init
