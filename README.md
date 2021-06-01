@@ -10,3 +10,7 @@ cp .env.example .env
 ## Settings 
 
 - You can add more unix libs on the `.enx.example` file.
+
+## ToDo
+- [ ] Docker
+- [ ] Docker compose
