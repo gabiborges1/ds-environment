@@ -36,5 +36,5 @@ else
     source ~/.bashrc
 fi
 
-# Configurind gcloud sdk
-# gcloud init
+#Configuring gcloud sdk
+gcloud init
