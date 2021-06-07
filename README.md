@@ -2,8 +2,8 @@
 
 Clone this repo and run:
 ```
-	cp .env.example .env
-	./env-setup.sh
+cp .env.example .env
+./env-setup.sh
 ```
 or (make dependency)
 ```
